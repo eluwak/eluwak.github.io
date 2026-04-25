@@ -18,6 +18,10 @@ reason why a Rack Environment Monitor is needed that can monitor and control act
 manner. Specific and deterministic behavior in unexpected scenarios could help save the company from
 undesired expenses related to damaged hardware or injured personnel.
 
+## Wokwi Project
+
+https://wokwi.com/projects/461840519909967873
+
 ## Demonstration Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YIORosktDvw?si=66Bp7vq5MP2v7Wzl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
